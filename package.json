@@ -30,7 +30,7 @@
     "========= Clean": "",
     "// Remove all generated files": "",
     "clean": "git clean -Xdf",
-    "reset": "pnpm run clean && pnpm install && pnpm run build",
+    "reset": "pnpm run clean && pnpm install && pnpm run build"
   },
   "devDependencies": {
     "@brillout/bump-dependencies": "^0.1.1",
